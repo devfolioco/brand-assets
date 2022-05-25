@@ -10,13 +10,15 @@ Rules are boring but rules are important. We have listed down a few things you n
 
 It has three variants -
 
-- `White` <img src ="Logo + Text - White/Devfolio - White.png" style="width: 100px; background-color: #2F3437; padding: 8px 10px 8px 10px; border-radius: 8px;margin-left: 20px; ">
-- `Dark` <img src ="Logo + Text - Dark/Devfolio - Dark.svg" style="width: 100px; margin-left: 20px;">
-- `Coloured` <img src ="Logo + Text - Colored/Devfolio - Normal.svg" style="width: 100px; margin-left: 20px; border: 1px solid grey; padding: 8px 10px 8px 10px">
+- `White` <img src ="Logo + Text - White/Devfolio - White.png" style="width: 100px; background-color: #2F3437; padding: 8px 10px 8px 10px; border-radius: 8px;margin-left: 20px;" align="center">
 
-2. `Logo` has the classic coloured 'D' logo in all its glory. <img src ="Logo/Logo.svg" style="width: 20px; margin-left: 20px;">
+- `Dark` <img src ="Logo + Text - Dark/Devfolio - Dark.svg" style="width: 100px; margin-left: 20px;" align="center">
 
-3. `Devfolio Square` involves a white 'D' logo with the signature blue background. <img src ="Devfolio Square/Square.png" style="width: 30px; margin-left: 20px;">
+- `Coloured` <img src ="Logo + Text - Colored/Devfolio - Normal.svg" style="width: 100px; margin-left: 20px; border: 1px solid grey; padding: 8px 10px 8px 10px" align="center">
+
+2. `Logo` has the classic coloured 'D' logo in all its glory. <img src ="Logo/Logo.svg" style="width: 20px; margin-left: 20px;" align="center">
+
+3. `Devfolio Square` involves a white 'D' logo with the signature blue background. <img src ="Devfolio Square/Square.png" style="width: 30px; margin-left: 20px;" align="center">
 
 4. Devfolio and its assets make use of the following colours:
 
