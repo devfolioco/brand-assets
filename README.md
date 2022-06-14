@@ -46,6 +46,6 @@ Note: If you're using Devfolio's D as a profile picture and the D doesn't seem t
 
 4. You may not display Devfolio assets more prominently than your trademarks, product, service, or company name.
 
-5. You may not modify the assets in the manner of color , font, or appearance.
+5. You may not modify the assets in the manner of color, font, or appearance.
 
 6. You may not use the assets on or in connection with any defamatory, scandalous, pornographic, obscene, or other objectionable materials.̌
